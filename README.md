@@ -1,1 +1,3 @@
 # Conecta-practice
+
+Practica de un repositorio con un programa para conecta...
